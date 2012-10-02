@@ -17,6 +17,3 @@
 
 * Security
   - Remove MD5
-
-* Migration
-  - LOL
